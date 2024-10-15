@@ -9,7 +9,7 @@ const Skills = () => {
     <section id="skills">
       <span className="skillTitle">What I do</span>
       <span className="skillDesc">
-        I have a solid grasp of HTML, CSS, and JavaScript for creating responsive, interactive web pages. I'm familiar with Bootstrap for faster UI development and have started learning React. I also use Git for version control and aim to expand my skills into full-stack development.</span>
+        I have a solid grasp of HTML, CSS, and JavaScript for creating responsive, interactive web pages. I am familiar with Bootstrap for faster UI development and have started learning React. I also use Git for version control and aim to expand my skills into full-stack development.</span>
         <div className="skillBars">
           <div className="skillBar">
             <img src={UIDev} alt="UIDev" className="skillBarImg"/>

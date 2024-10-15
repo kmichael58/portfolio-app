@@ -11,7 +11,7 @@ const Works = () => {
   return (
     <section id="works">
       <h2 className="worksTitle">My Portfolio</h2>
-      <span className="worksDesc">I build simple, responsive websites using HTML, CSS, and JavaScript. I'm learning React for dynamic content. I also use Git for version control and focus on mobile-friendly designs and bug fixes to improve my skills.</span>
+      <span className="worksDesc">I build simple, responsive websites using HTML, CSS, and JavaScript. I am learning React for dynamic content. I also use Git for version control and focus on mobile-friendly designs and bug fixes to improve my skills.</span>
       <div className="worksImgs">
         <a href="https://kmichael58.github.io/aimike/"><img  src={Proj1} alt="Project 1" className="worksImg"/></a>
         <a href="https://kmichael58.github.io/color.github.io/"><img src={Proj2} alt="Project 2" className="worksImg"/></a>

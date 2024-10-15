@@ -32,7 +32,7 @@ const Contact = () => {
       <div className="clients">
       <h1 className="contactPageTitle">My Clients</h1>
         <p className="clientDesc">
-          As a beginner front-end developer, I've worked on various sample projects to hone my skills. Here are a few examples of my work:
+          As a beginner front-end developer, I have worked on various sample projects to hone my skills. Here are a few examples of my work:
           </p>
         <div className="clientImgs"> 
            <a href="https://kmichael58.github.io/Passgen.github.io/"><img src={Cli1} alt="Cli1" className="clientImg"/></a>
@@ -42,7 +42,7 @@ const Contact = () => {
       </div>
       <div id="contact">
         <h1 className="contactPageTitle">Contact Me</h1>
-        <span className="contactDesc">I'm always open to new opportunities, collaborations, and discussions. Whether you have a project in mind, need help with something, or just want to connect, feel free to reach out. You can contact me via email, or connect with me on social media. I'll get back to you as soon as possible!</span>
+        <span className="contactDesc">I am always open to new opportunities, collaborations, and discussions. Whether you have a project in mind, need help with something, or just want to connect, feel free to reach out. You can contact me via email, or connect with me on social media. I will get back to you as soon as possible!</span>
         <form className="contactForm" ref={form} onSubmit={sendEmail}>
           <input type="" className="name" placeholder="Your Name..." name="from_name"/>
           <input type="email" className="email" placeholder="Your Email..." name="your_email"/>
